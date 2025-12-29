@@ -22,9 +22,9 @@ Core Strengths:
 🏃‍♂️ Self-motivated, disciplined, and consistent learner
 
 
-🛠️ Technical Arsenal
+## 🛠️ Technical Skills
 
-## Backend:
+## Backend
 Java (Core & Advanced Concepts),
 Spring Framework,
 Spring Boot,
