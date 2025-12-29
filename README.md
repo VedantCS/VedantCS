@@ -4,7 +4,8 @@
 
 🎯 Seeking internships / entry-level roles
 
-👨‍💻 Who I Am
+👨‍💻 Who Am I?
+
 I am a Java Backend Developer in training with a strong engineering mindset, focused on building production-ready backend applications using Java, Spring, and Spring Boot.
 
 Core Strengths: 
