@@ -12,9 +12,9 @@ Core Strengths:
 
 💪 Strong command of Core Java (OOP, Collections, Exception Handling)
 
-⚙️ Backend development using Spring & Spring Boot{learning as of now)
+⚙️ Backend development using Spring & Spring Boot(learning as of now, to be completed till the second week of feb)
 
-🌐 Frontend fundamentals: HTML, CSS, JavaScript
+🌐 Frontend fundamentals: HTML, CSS, (learning)JavaScript
 
 ☁️ Cloud & AI foundations with industry-recognized certifications
 
