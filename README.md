@@ -39,7 +39,7 @@ JavaScript (Basics)
 ## Developer Tools
 Git & GitHub,
 IntelliJ IDEA / VS Code,
-Maven (learning)
+Maven
 
 ## 📜 Certifications (Verified Knowledge)
 
